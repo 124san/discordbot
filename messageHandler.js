@@ -1,3 +1,5 @@
+// old message handler. DEPRECATED
+
 // Imports
 const hsAnagram = require('./hearthstone/hsAnagram')
 console.log("Finish loading handler")
